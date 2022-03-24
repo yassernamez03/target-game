@@ -48,13 +48,13 @@ body {
     height: 600px;
     border: 1px solid black;
     border-radius: 20px;
-    background-image: url(/ex02/image/istockphoto-472347896-612x612.jpg);
+    background-image: url(istockphoto-472347896-612x612.jpg);
 }
 
 #ball {
     border: 1px solid black;
     background-color: rgba(0, 0, 0, 0.534);
-    background-image: url(/ex02/image/images.jpg);
+    background-image: url(images.jpg);
     position: absolute;
     width: 100px;
     height: 100px;
